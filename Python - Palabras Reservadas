@@ -1,0 +1,30 @@
+and	
+exec
+not
+assert
+finally	
+or
+break	
+for : estructura de control bucles
+pass
+class	
+from
+print : imprimir
+continue	
+global
+raise
+def : crea una funcion
+if : estructura de control condicional
+return
+del	
+import	
+try
+elif : estructura de control condicional
+in	
+while : estructura de control bucles
+else : estructura de control condicional
+is	
+with
+except	
+lambda
+yield
