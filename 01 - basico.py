@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 #cuando el identificador empieza con un underscore, significa que es privado: E: class _Internal:
-#si tiene 2 underscore significa que es fuertemente privado, sin embargo, no es posible forzar privacidad, solo ponerlo en cosideración
+#si tiene 2 underscore significa que es fuertemente privado, sin embargo, no es posible forzar privacidad, solo ponerlo en consideración
 #ya que se puede acceder a identificadores privados con otro método.
 
 def metodo():
